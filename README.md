@@ -9,14 +9,13 @@ Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensiv
 
 ### Launch Options
 
-	- freq 240 -tickrate 128  -exec autoexec.cfg -novid -noforcemaccel -nojoy -
+	-freq 240 -tickrate 128  -exec autoexec.cfg -novid -noforcemaccel -nojoy 
 
 Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
 ### Other Settings
 + Windows Sensitivity: 6/11  
 + Enhance Pointer Precision: No  
-+ Mouse DPI: 800  
 + Mouse DPI: 400  
 + Mouse Polling Rate: 1000hz
 + Nvidia Maximum Pre-Rendered Frames: 1  
@@ -33,7 +32,6 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 - CASE : CoolerMaster HAF X
 - SOUND CARD : Asus XONAR AE
 - OS : ReviOS 1709 U3.5
-
 
 ### Peripherals 
 - Mouse : Glorious Model O (with V1 Ascend Cable)
