@@ -1,1 +1,0 @@
--freq 144 -tickrate 128  -exec autoexec.cfg -novid -noforcemaccel -nojoy
