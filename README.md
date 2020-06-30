@@ -5,7 +5,7 @@ This is my constantly updated CS:GO autoexec config.
 Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` or take what you want from it and add to your autoexec config! 
 
 ### Configs files
- + [autoexec.cfg](https://github.com/Keisuuu/CSGO/blob/master/autoexec.cfg) - Banana Gaming AUTO EXEC
+ + [autoexec.cfg](https://github.com/Keisuuu/CSGO/blob/master/Config/autoexec.cfg) - Banana Gaming AUTO EXEC
 
 ### Launch Options
 
