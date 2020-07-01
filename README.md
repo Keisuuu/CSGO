@@ -46,7 +46,7 @@ devlopr uses Markdown Files to create data like Blog Posts, Gallery, Shop Produc
 - CI/CD Support using [Travis CI](https://sujaykundu.com/blog/posts/deploy-jekyll-blog-using-github-pages-and-travis-ci/), Buddy , Circle CI
 
 #### Jekyll Admin
-You can easily manage the site locally using the Jekyll admin : [http://localhost:4000/admin](http://localhost:4000/admin)
+You can easily manage the site locally using the Jekyll admin : [https://keisuuu.github.io/CSGO/admin](https://keisuuu.github.io/CSGO/admin)
 
 ![Jekyll Admin](https://github.com/sujaykundu777/devlopr-jekyll/blob/master/assets/img/jekyll-admin.PNG?raw=true)
 
@@ -78,7 +78,7 @@ Running the container :
 
 You can run the app in development mode : (your changes will be reflected --watch moded)
 
-Serve the site at http://localhost:4000 :
+Serve the site at https://keisuuu.github.io/CSGO :
 
 `docker-compose -f docker-compose-dev.yml up --build --remove-orphans`
 
@@ -86,7 +86,7 @@ Serve the site at http://localhost:4000 :
 
 You can run the app in production mode : (your changes will be reflected --watch moded)
 
-Serve the site at http://localhost:4000 :
+Serve the site at https://keisuuu.github.io/CSGO :
 
 `docker-compose -f docker-compose-prod.yml up --build --remove-orphans`
 
