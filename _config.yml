@@ -103,4 +103,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-destination: ./CSGO/
+destination: ./build
+
